@@ -12,6 +12,7 @@ A random generator that will read a user's list of Steam library and upon reques
 * Reading games from other known game hubs (Battle.net, Origin, etc.)
 * Some incentive to complete the challenge
 * Create a mobile version
+
 I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/RandomGameChallengeGenerator-RGCG-/issues) section. All changes will be included in the [CHANGELOG](CHANGELOG.md).
 
 ## Contribution *WIP*
