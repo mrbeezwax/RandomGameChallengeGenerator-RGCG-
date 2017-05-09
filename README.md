@@ -12,14 +12,14 @@ A random generator that will read a user's list of Steam library and upon reques
 * Reading games from other known game hubs (Battle.net, Origin, etc.)
 * Some incentive to complete the challenge
 * Create a mobile version
-I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/RandomGameChallengeGenerator-RGCG-/issues) section. All changes will be included in the [CHANGELOG.md](CHANGELOG.md).
+I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/RandomGameChallengeGenerator-RGCG-/issues) section. All changes will be included in the [CHANGELOG](CHANGELOG.md).
 
 ## Contribution *WIP*
-Record any changes you make into the [CHANGELOG.md](CHANGELOG.md) in the correct [format](http://keepachangelog.com/).
+Record any changes you make into the [CHANGELOG](CHANGELOG.md) in the correct [format](http://keepachangelog.com/).
 
 Example:
 ```
-## [Some Release] - Day Month, Year
+## [Some Release] - Day Month Year
 ### Added
 * Uploaded a cool duck picture to the repo
 * Translation for README.md
@@ -39,4 +39,4 @@ Suds - Came up with the original idea
 
 ## License
 From the beginning, this project is licensed under the [MIT License](https://tldrlegal.com/license/mit-license).
-See [LICENSE.md](LICENSE.md).
+See [LICENSE](LICENSE.md).
