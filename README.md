@@ -13,7 +13,7 @@ A random generator that will read a user's list of Steam library and upon reques
 * Some incentive to complete the challenge
 * Create a mobile version
 
-I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/RandomGameChallengeGenerator-RGCG-/issues) section. All changes will be included in the [CHANGELOG](CHANGELOG.md).
+I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/RandomGameChallengeGenerator-RGCG-/issues) section.
 
 ## Contribution *WIP*
 Record any changes you make into the [CHANGELOG](CHANGELOG.md) in the correct [format](http://keepachangelog.com/).
@@ -32,8 +32,8 @@ Example:
 * Deleted an ugly weasel picture from the repo
 ```
 
-## Building and Testing
-*WIP*
+## Building and Testing *WIP*
+:)
 
 ## Acknowledgements
 Suds - Came up with the original idea
