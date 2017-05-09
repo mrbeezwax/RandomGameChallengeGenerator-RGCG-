@@ -6,5 +6,4 @@ If you notice an unconventional format error, feel free to change it by creating
 ### Added
 * ReadMe and License file
 ### Changed
-* Updated contribution section of ReadMe
-* Fixed formatting of Possible Features
+* Updated contribution and possible features section of ReadMe
