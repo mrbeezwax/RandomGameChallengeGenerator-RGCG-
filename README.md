@@ -16,11 +16,12 @@ I will look at other suggestions in the [Issues](https://github.com/mrbeezwax/Ra
 
 ## Contribution *WIP*
 Record any changes you make into the [CHANGELOG.md](CHANGELOG.md) in the correct [format](http://keepachangelog.com/).
+
 Example:
 ```
 ## [Some Release] - Day Month, Year
 ### Added
-* Uplodaded a cool duck picture to the repo
+* Uploaded a cool duck picture to the repo
 * Translation for README.md
 ### Changed
 * Renamed UglyWeasel.jpg to CoolDuck.jpg
