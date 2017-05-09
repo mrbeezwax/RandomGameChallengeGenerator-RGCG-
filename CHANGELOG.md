@@ -4,4 +4,6 @@ If you notice an unconventional format error, feel free to change it by creating
 
 ## First Release - 9 May 2017
 ### Added
-- ReadMe and License file
+* ReadMe and License file
+### Changed
+* Updated contribution section of ReadMe
