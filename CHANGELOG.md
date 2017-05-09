@@ -7,3 +7,4 @@ If you notice an unconventional format error, feel free to change it by creating
 * ReadMe and License file
 ### Changed
 * Updated contribution section of ReadMe
+* Fixed formatting of Possible Features
